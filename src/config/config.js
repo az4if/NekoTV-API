@@ -1,6 +1,6 @@
 const config = {
-  baseurl: 'https://hianvsvsvsime.bz',
-  baseurl_v2: 'https://kaivvsvsdo.to',
+  baseurl: 'https://hianime.bz',
+  baseurl_v2: 'https://kaido.to',
   providers: 'https://megacloud.club',
 
   headers: {
