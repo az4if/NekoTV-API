@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **📦 This repository is archived.**  
+> The authors and maintainers will not be working on NekoTV-API any further — no new features, fixes, or updates going forward.  
+> The code is still here for anyone who wants it: feel free to **fork it, customize it, and carry on the project** as you see fit.
+
+---
+
 <!-- Title with gradient -->
 <h1 align="center">
   <span style="background: linear-gradient(90deg, #a29bfc, #89bcf8); -webkit-background-clip: text; color: transparent;">
@@ -8,13 +15,6 @@
 <p align="center">
   <img src="./apilogo.png" alt="NekoTV Logo" width="500"/>
 </p>
-
----
-
-> [!WARNING]
-> **📦 This repository is archived.**  
-> I will not be working on NekoTV-API any further — no new features, fixes, or updates from me going forward.  
-> The code is still here for anyone who wants it: feel free to **fork it, customize it, and carry on the project** as you see fit.
 
 ---
 
