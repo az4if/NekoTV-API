@@ -11,6 +11,13 @@
 
 ---
 
+> [!WARNING]
+> **📦 This repository is archived.**  
+> I will not be working on NekoTV-API any further — no new features, fixes, or updates from me going forward.  
+> The code is still here for anyone who wants it: feel free to **fork it, customize it, and carry on the project** as you see fit.
+
+---
+
 <p align="center">
   NekoTV-API is a RESTful API that fetches anime content from <a href="https://hianimez.to" target="_blank">hianimez.to</a> using web scraping.  
   It provides endpoints to retrieve anime details, episodes, and streaming links.
