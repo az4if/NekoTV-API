@@ -145,7 +145,7 @@ For the complete license details, please refer to the [LICENSE.md](LICENSE.md) f
 
 - Pull requests and stars are welcome.  
 - Report bugs or request features via [Issues](https://github.com/jsmat0m/NekoTV-API/issues).  
-- Use this API for your frontend project: [NekoTV](https://github.com/jsmat0m/NekoTV)
+- Use this API for your frontend project: [NekoTV](https://github.com/az4if/NekoTV)
 
 ---
 
